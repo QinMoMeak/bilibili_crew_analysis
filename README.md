@@ -18,3 +18,4 @@ b站直播间舰长分析
 另
 
 - /record提供一些样例数据 格式为json 来源https://danmakus.com/rank
+- 查看"uid", "名字", "排名", "舰长等级", "粉丝牌等级" 可用https://github.com/Ninzore/biliLiveGuard
