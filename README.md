@@ -14,3 +14,7 @@ b站直播间舰长分析
 - 请求时间间隔调整 默认1s 避免IP封禁
 - 增加IP池
 - 获取用户其他信息 字段名称参考[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/docs/user/info.md?plain=1) 存于变量json_data（dict格式）
+
+另
+
+- /record提供一些样例数据 格式为json 来源https://danmakus.com/rank
