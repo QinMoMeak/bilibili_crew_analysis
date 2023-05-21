@@ -4,7 +4,9 @@ b站直播间舰长分析
 配置
 
   1.修改UID和self.ruid（根据UID获取ruid接口暂时测试失效）
+  
   2.py3 安装所需依赖 运行
+  
   3.命令行得到结果，用户名、UID、Level存入data.csv
   
 自行修改
